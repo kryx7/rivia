@@ -103,7 +103,7 @@ textarea{
   padding-left: 15px;
 }
 table {
-  font-family: arial, sans-serif;
+  font-family: "system-ui";
   border-collapse: collapse;
   width: 99%;
 }
