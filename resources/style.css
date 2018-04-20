@@ -76,6 +76,10 @@ html{
 }
 .search-fields{
   margin-top:10px;
+  justify-content: flex-end;
+  display: flex;
+  margin-right: 20px;
+
 }
   
 
