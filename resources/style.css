@@ -57,7 +57,7 @@ html{
   }
   .sidenav{
     display: flex;
-    max-width: 241px;
+    width: 20%;
     z-index: 1;
     overflow-x: hidden;
     height:100%;
@@ -87,7 +87,7 @@ input{
 .input-text-boxes{
   display: flex;
   justify-content: flex-start;
-  
+
 }
   
 
