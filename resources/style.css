@@ -57,12 +57,12 @@ body{
 }
 .sidenav{
   display: flex;
-  width: 200px;
+  width: 15%;
   z-index: 1;
   overflow-x: hidden;
   height:100%;
   align-self: flex-start;
-  padding-top: 20px;
+  padding-top: 9px;
   padding-right: 25px;
 }
 .left-navigator{
@@ -92,7 +92,7 @@ textarea{
   resize: none;
 }
 .right-side-text{
-  margin-left: 3rem;
+  margin-left: 7rem;
 }
 .main-body-areas-create{
   display: flex;
