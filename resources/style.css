@@ -1,3 +1,4 @@
+/* Common CSS elements */
 html{
   font-family: "system-ui";
   line-height: 1.2;
@@ -65,7 +66,6 @@ body{
   padding-top: 9px;
   padding-right: 25px;
   border-bottom: 1px solid rgb(188, 188, 188);
-  
 }
 .sidenav a{
   text-decoration:none;
@@ -83,6 +83,9 @@ body{
 .left-navigator{
   list-style-type: none;
 }
+
+/* Create-test + Update-test pages */
+
 .left-side-text{
   width:100%;
   border-left: 2px solid rgb(188, 188, 188);
@@ -117,6 +120,9 @@ textarea{
   border-left: 2px solid rgb(188, 188, 188);
   padding-left: 15px;
 }
+
+/* Home page */
+
 .active-tests{
   font-family: "system-ui";
   border-collapse: collapse;
